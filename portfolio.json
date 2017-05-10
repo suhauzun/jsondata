@@ -1,0 +1,102 @@
+{
+  "portfolio": [
+
+    {
+    "kategoriid":"1",
+    "icerik":{ 
+
+    "kategoriadi": "Yanmar",
+    "urunaltkategori":"Şanzımanlı Dizel Motorlar",
+    "urunadi":"Kohler Jeneratör 11 kw.",
+    "urunresmi":"http://www.denpar.com/store/makethumb.aspx?file=c3b19eb9-cd49-4cc0-a300-80e9f7c1f8e94JHYE.jpg&intSize=350",
+    "urunkodu":"4JHYE",
+    "ucret":"15.000$",
+    "tablo":{
+				"konfigurasyon" :"4 zamanlı, dikey, doğal havalandırmalı, mazotlu",
+				"maksimumguc":" 25.7 kW @ 3400 rpm (35 mhp @ 3400 rpm)",
+				"toplamsilindir":" Hacmi 1.644 ltr",
+				"capkurs":" 78 mm x 86 mm (3.07 in x 3.39 in)",
+				"silindirsayisi":" 4 silindir",
+				"atesleme":" Direkt enjeksiyon",
+				"havaemis":" Tabii emişli",
+				"start" :"Elektrik marş motoru 12V - 1.8 kW",
+				"alternator":" 12V - 35A",
+				"sogutma":" Tatlı su soğutmalı",
+				"yaglama":" Basınçlı yağlama sistemi",
+				"donusyonu":" Volan tarafından bakıldığında saatin tersi yönünde",
+				"sanzimankuruagirlik":" 220 kg (485 lbs)",
+				"motorbaglantisekli":"Kauçuklu kulak"
+    },
+    "pdf":{
+				"pdf1":"http://www.denpar.com/Uploads/ProductsFiles/a4ba4fe8-fc06-4e5e-a319-602dffb9d5fb.pdf",
+				"pdf2":"http://www.denpar.com/Uploads/ProductsFiles/a4ba4fe8-fc06-4e5e-a319-602dffb9d5fb.pdf",
+				"pdf3":"http://www.denpar.com/Uploads/ProductsFiles/a4ba4fe8-fc06-4e5e-a319-602dffb9d5fb.pdf"
+       }     
+    
+     }
+
+
+
+
+    },
+{
+    "kategoriid":"2",
+    "icerik2":{ 
+
+    "kategoriadi": "Onon",
+    "urunaltkategori":"Şanzımanlı Dizel Motorlar",
+    "urunadi":"Kohler Jeneratör 11 kw.",
+    "urunresmi":"http://www.denpar.com/store/makethumb.aspx?file=c3b19eb9-cd49-4cc0-a300-80e9f7c1f8e94JHYE.jpg&intSize=350",
+    "urunkodu":"4JHYE",
+    "ucret":"15.000$",
+    "tablo":{
+				"konfigurasyon" :"4 zamanlı, dikey, doğal havalandırmalı, mazotlu",
+				"maksimumguc":" 25.7 kW @ 3400 rpm (35 mhp @ 3400 rpm)",
+				"toplamsilindir":" Hacmi 1.644 ltr",
+				"capkurs":" 78 mm x 86 mm (3.07 in x 3.39 in)",
+				"silindirsayisi":" 4 silindir",
+				"atesleme":" Direkt enjeksiyon",
+				"havaemis":" Tabii emişli",
+				"start" :"Elektrik marş motoru 12V - 1.8 kW",
+				"alternator":" 12V - 35A",
+				"sogutma":" Tatlı su soğutmalı",
+				"yaglama":" Basınçlı yağlama sistemi",
+				"donusyonu":" Volan tarafından bakıldığında saatin tersi yönünde",
+				"sanzimankuruagirlik":" 220 kg (485 lbs)",
+				"motorbaglantisekli":"Kauçuklu kulak"
+    },
+    "pdf":{
+				"pdf1":"http://www.denpar.com/Uploads/ProductsFiles/a4ba4fe8-fc06-4e5e-a319-602dffb9d5fb.pdf",
+				"pdf2":"http://www.denpar.com/Uploads/ProductsFiles/a4ba4fe8-fc06-4e5e-a319-602dffb9d5fb.pdf",
+				"pdf3":"http://www.denpar.com/Uploads/ProductsFiles/a4ba4fe8-fc06-4e5e-a319-602dffb9d5fb.pdf"
+       }     
+    
+     }
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+  ]
+
+
+
+
+
+
+}
+
+
+
+
+
+  
